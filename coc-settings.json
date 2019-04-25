@@ -1,1 +1,14 @@
-/home/liang/.vim/coc-settings.json
+{
+    "python.jediEnabled": true,
+    "python.autoComplete.addBrackets": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": ["--max-line-length=96","--ignore=F401"],
+    "python.formatting.provider": "yapf",
+    "python.analysis.errors": ["EE☹"],
+    "python.analysis.warnings": [],
+    "python.analysis.information": [],
+    "diagnostic.checkCurrentLine": true,
+    "suggest.snippetIndicator": "  ฅ՞•ﻌ•՞ฅ"
+
+}
